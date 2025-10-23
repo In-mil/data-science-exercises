@@ -7,3 +7,6 @@ statsmodels
 scikit-learn
 scipy
 skops
+numpy
+joblib 
+optuna

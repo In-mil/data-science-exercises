@@ -1,10 +1,7 @@
-# Refactoring Project
+# Data Science Exercises Collections
 
-Please do not fork this repository, but use this repository as a template for your refactoring project. Make Pull Requests to your own repository even if you work alone and mark the checkboxes with an `x`, if you are done with a topic in the pull request message.
+Here you can find a collection of jupiter lab notebooks with exercises showcasing learned skills in the data science bootcamp.
 
-## Project for today
-
-The task for today you can find in the [project-for-today.md](./project-for-today.md) file.
 
 ## Setup
 
